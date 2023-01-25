@@ -9,3 +9,11 @@ Here you can find my [image](github-logo.png)
 ## emojis
 😄  
 :book:
+
+
+## checkbox
+- [X] Git and Github
+- [X] CSS
+- [X] HTML
+- [X] JS
+- [ ] React
