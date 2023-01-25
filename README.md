@@ -17,3 +17,11 @@ Here you can find my [image](github-logo.png)
 - [X] HTML
 - [X] JS
 - [ ] React
+
+## Tabelle
+| HTML | CSS |
+| ----- | :--- |
+| 4 weeks | 6 weeks |
+| easy | normal |
+
+Zeilenumbruch  Test
