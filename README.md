@@ -7,6 +7,5 @@ For more information about this project [click here](https://google.com)
 Here you can find my [image](github-logo.png)
 
 ## emojis
-😄
+😄  
 :book:
-⛅
